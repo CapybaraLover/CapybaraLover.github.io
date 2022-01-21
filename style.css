@@ -1,0 +1,13 @@
+body {background-color: green;}
+
+h1 {color:blue;font-family: sans-serif;}
+
+p {color:red;}
+
+img {
+border: 5px solid fuchsia;
+width:50%;
+height:50%;
+margin-left:100px;
+padding:50px;
+}
